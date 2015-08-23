@@ -23,7 +23,7 @@ Some key features:
 
 Here's the Sequence you can use to download, install, and get familiar with the program:
 
-1. Download here. You'll have to trust that I'm not writing malicious code I'm afraid. I'm not a professional software engineer btw.
+1. Download the zip file here (https://github.com/kohjb/G-Code-Analyzer-and-Backlash-Compensator/blob/master/G-Code%20Analyzer.zip?raw=true). Extract the files to a location and run the file "G-Code 3D Print Analyzer.exe". If Norton or other Antivirus program pops up, you'll have to trust that I'm not writing malicious code I'm afraid so will need the more knowledgeable ones to help vouch for this.
 * The program should run Maximised. But you can resize as needed.
 Load G-Code from a file. If you need a sample, let me know. I've only tested with G-Code from Cura so far, and then again, only for very simple models.
 * Try the 3D interaction to examine the 3D object. Press Reset if you get "lost". You can manually adjust the camera position, Zoom, and Target point as needed. Auto-Aim "locks" the view to the centre of the 3D object.
